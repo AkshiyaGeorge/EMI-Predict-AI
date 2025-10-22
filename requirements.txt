@@ -7,4 +7,3 @@ seaborn
 matplotlib
 mlflow
 Pillow
-pickle5
